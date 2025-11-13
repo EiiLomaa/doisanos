@@ -1,0 +1,38 @@
+body {
+    background-color: #fff5e6; /* cor de fundo suave */
+    font-family: "Comic Sans MS", Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 30px;
+}
+
+h1 {
+    color: #ff6600;
+    font-size: 42px;
+}
+
+h2 {
+    color: #ff9966;
+    font-weight: normal;
+}
+
+img {
+    width: 120px;
+    margin: 20px 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 10px auto;
+    width: 70%;
+}
+
+strong {
+    color: #ff3300;
+}
+
+em {
+    color: #9900cc;
+}
