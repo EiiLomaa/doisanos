@@ -35,4 +35,20 @@ strong {
 
 em {
     color: #9900cc;
+
+}
+form {
+  background-color: #ffe6e6;
+  border-radius: 10px;
+  padding: 20px;
+  width: 60%;
+  margin: 20px auto;
+}
+
+input, textarea {
+  width: 90%;
+  margin: 8px 0;
+  padding: 10px;
+  border: 2px solid #ff99cc;
+  border-radius: 8px;
 }
