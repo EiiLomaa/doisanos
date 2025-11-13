@@ -44,11 +44,23 @@ form {
   width: 60%;
   margin: 20px auto;
 }
-
 input, textarea {
   width: 90%;
   margin: 8px 0;
   padding: 10px;
   border: 2px solid #ff99cc;
   border-radius: 8px;
+}
+input[type="submit"] {
+  background-color: #ff99cc;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+input[type="submit"]:hover {
+  background-color: #ff6699;
 }
